@@ -11,3 +11,9 @@
                        
                                        
 2. Image Rescaling
+   A path is taken as input or a default image can be chosen by pressin 0
+   "10% of image is improved/degraded per upscaling/downscaling done"
+   *10% change is seen of orignal image*
+   pressing 1 upscales the image 
+   and pressing 2 downscaes the image
+   pressing 0 again terminates the coede
